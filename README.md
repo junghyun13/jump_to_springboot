@@ -10,7 +10,5 @@
 * [http://sbb.pybo.kr](http://sbb.pybo.kr)
 
 
-책을 따라하다 생기는 질문은 위키독스의 댓글 또는 필자가 운영하는 디스코드를 활용하도록 하자.
 
-* 질문과 답변 서비스 "디스코드" - [https://discord.gg/ZwqRRYRYkR](https://discord.gg/ZwqRRYRYkR)
 
